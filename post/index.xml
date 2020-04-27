@@ -20,5 +20,14 @@
       <description>Hello!</description>
     </item>
     
+    <item>
+      <title>My First Post</title>
+      <link>https://folderplus.github.io/post/my-second-post/</link>
+      <pubDate>Mon, 27 Apr 2020 01:08:59 +0800</pubDate>
+      
+      <guid>https://folderplus.github.io/post/my-second-post/</guid>
+      <description>Hello!</description>
+    </item>
+    
   </channel>
 </rss>
